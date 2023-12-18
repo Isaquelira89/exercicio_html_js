@@ -1,0 +1,53 @@
+.form{
+    width: 400px;
+    height: 400px;
+    background-color: rgb(181, 10, 10);
+    margin: 0 auto;
+    padding:20px;
+    
+}
+form{
+    align-items: center;
+    
+    
+}
+input, button{
+    background-color: rgba(255, 255, 255, 0.917);
+    color: rgb(252, 0, 0);
+    display: block;
+    margin: 0 auto;
+    width: 200px;
+    height: 60px;
+    
+}
+h1{
+    text-align: center;
+    font-size: 40px;
+    color: rgb(255, 255, 255);
+    padding: 10px;
+}
+button{
+    color: red;
+    font-size: 30px;
+    margin: 0 auto;
+    padding: 8px;
+    
+}
+
+
+
+.msg-positiva {
+    background-color: rgb(49, 203, 49);
+    width: 400px;
+    text-align: center;
+    font-size: 18px;
+    display: none;
+}
+
+.msg-negativa {
+    background-color: rgb(203, 49, 49);
+    width: 400px;
+    text-align: center;
+    font-size: 18px;
+    display: none;
+}
